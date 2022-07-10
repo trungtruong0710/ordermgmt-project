@@ -1,0 +1,2 @@
+discount_id,name,discount_type,discount_amount_type,discount_amount_value,recurring_valid_duration,available_from,available_until,remarks,is_archived
+,missing-available-until,1,2,4000,,2021-01-18T06:00:00+07:00,,,0

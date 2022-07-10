@@ -1,0 +1,2 @@
+fee_id,name,fee_type,tax_id,available_from,available_until,custom_billing_period,billing_schedule_id,disable_pro_rating_flag,remarks,is_archived
+,wrong-billing-schedule-id-value,1,,2022-01-18T06:00:00+07:00,2022-08-18T06:00:00+07:00,,abc,FALSE,,0

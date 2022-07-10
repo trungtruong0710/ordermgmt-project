@@ -1,0 +1,71 @@
+CommonStep								- getCurrentDate
+										- selectDropDownList
+							
+Location								- selectLocation
+										- selectLocation2
+										
+Product									- clickAddNewProduct
+										- checkProductIsNotVisible
+		
+Comment									- addComment
+		
+Material Product Array 0				- selectMaterialFee92Tax10Array0
+										- selectMaterialFee95Tax10Array0
+										- selectMaterialFee100NoTaxArray0
+										- selectMaterialFee100Tax5Array0
+		
+Material Product Array 1				- selectMaterialFee100Tax10Array1
+										- selectMaterial2Fee100NoTaxArray1
+										
+Material Product Array 2				- selectMaterial2Fee100Tax5Array2
+		
+Discount Array 0						- selectDiscountAmount10Array0
+										- selectDiscountPercentage10Array0
+										
+Discount Array 1						- selectDiscountAmount10Array1
+										- selectDiscountPercentage10Array1
+										
+Discount Array 2						- selectDiscountPercentage10Array2
+		
+Assert Billing Date						- assertBillingDateArray0IsCurrentDate
+										- assertBillingDateArray1IsCurrentDate
+										- assertBillingDateArray2IsCurrentDate
+								
+Assert Product Name and Price Array 0	- assertMaterialNameAndPriceFee92Tax10Array0
+										- assertMaterialNameAndPriceFee95Tax10Array0
+										- assertMaterialNameAndPriceFee100NoTaxArray0
+										- assertMaterialNameAndPriceFee100Tax5Array0
+
+Assert Product Name and Price Array 1	- assertMaterialNameAndPriceFee100Tax10Array1
+										- assertMaterial2NameAndPriceFee100NoTaxArray1
+										
+Assert Product Name and Price Array 2	- assertMaterial2NameAndPriceFee100Tax5Array2
+
+Assert Discount Array 0					- assertDiscountAmount10Array0
+										- assertDiscountPercentage10DiscountAmount9Array0
+										- assertDiscountPercentage10Array0
+										
+Assert Discount Array 1					- assertDiscountAmount10Array1
+										- assertDiscountPercentage10Array1
+
+Assert Discount Array 2					- assertDiscountPercentage10Array2
+
+Assert Sub-total and Total				- 85
+										- 90
+										- 94
+										- 95
+										- 100
+										- 180
+										- 190
+										- 200
+										- 270
+										- 300
+										
+Assert Inclusive Tax Array 0			- assertInclusiveTax5OneProductArray0
+										- assertInclusiveTax10OneProductArray0
+										- assertInclusiveTax10OneProductTaxAmount9Array0
+										- assertInclusiveTax5TwoProductTaxAmount9Array0
+										- assertInclusiveTax5TwoProductTaxAmount10Array0
+
+Assert Inclusive Tax Array 1			- assertInclusiveTax10OneProductArray1
+										- assertInclusiveTax10OneProductTaxAmount9Array1

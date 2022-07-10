@@ -1,0 +1,2 @@
+billing_schedule_period_id,name,billing_schedule_id,start_date,end_date,billing_date,remarks,is_archived
+,wrong-billing-schedule-period-id,abc,2022-01-18T06:00:00+07:00,2022-08-18T06:00:00+07:00,2022-08-18T05:00:00+07:00,,0

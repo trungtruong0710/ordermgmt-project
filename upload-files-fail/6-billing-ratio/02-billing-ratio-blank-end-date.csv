@@ -1,0 +1,2 @@
+billing_ratio_id,start_date,end_date,billing_schedule_period_id,billing_ratio_numerator,billing_ratio_denominator,is_archived
+,2022-01-17T23:00:00+00:00,,65,1,17,0

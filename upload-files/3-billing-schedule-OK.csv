@@ -1,0 +1,3 @@
+billing_schedule_id,name,remarks,is_archived
+,BILLING-SCHEDULE-07102022-01,,0
+,ARCHIVED-BILLING-SCHEDULE-07102022-01,,1

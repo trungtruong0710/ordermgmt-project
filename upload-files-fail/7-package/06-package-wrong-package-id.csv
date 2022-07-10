@@ -1,0 +1,2 @@
+package_id,name,package_type,tax_id,available_from,available_until,max_slot,custom_billing_period,billing_schedule_ID,disable_pro_rating_flag,package_start_date,package_end_date,remarks,is_archived
+abc,wrong-package-id,1,,2022-01-18T06:00:00+07:00,2022-08-18T06:00:00+07:00,0,2022-07-18T06:00:00+07:00,,FALSE,2022-01-18T06:00:00+07:00,2022-08-18T06:00:00+07:00,,0

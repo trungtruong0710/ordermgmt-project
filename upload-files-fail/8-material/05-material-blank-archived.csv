@@ -1,0 +1,2 @@
+material_id,name,material_type,tax_id,available_from,available_until,custom_billing_period,custom_billing_date,billing_schedule_ID,disable_pro_rating_flag,remarks,is_archived
+,missing-archived,1,,2022-01-18T06:00:00+07:00,2022-08-18T06:00:00+07:00,2022-07-18T06:00:00+07:00,2022-07-18T06:00:00+07:00,,FALSE,,

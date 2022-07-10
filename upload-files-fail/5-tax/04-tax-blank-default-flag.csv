@@ -1,0 +1,2 @@
+tax_id,name,tax_percentage,tax_category,default_flag,is_archived
+,missing-tax-category,10,1,,0

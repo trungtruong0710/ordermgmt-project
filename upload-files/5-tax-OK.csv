@@ -1,0 +1,5 @@
+tax_id,name,tax_percentage,tax_category,default_flag,is_archived
+,TAX-INCL-10%-07102022-01,10,1,0,0
+,ARCHIVED-TAX-INCL-10%-07102022-01,10,1,0,1
+,TAX-EXCL-10%-07102022-01,10,2,0,0
+,ARCHIVED-TAX-EXCL-10%-07102022-01,10,2,0,1
